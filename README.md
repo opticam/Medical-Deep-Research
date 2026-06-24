@@ -1,5 +1,7 @@
 # Medical Deep Research
 
+Google Project ID: `agent-orchestration-500407`
+
 Medical Deep Research is a focused project for running evidence-driven medical investigations with **agent orchestration**.  
 It coordinates multiple AI agents to break complex clinical or scientific questions into manageable tasks, gather findings, and synthesize clear outputs for review.
 
